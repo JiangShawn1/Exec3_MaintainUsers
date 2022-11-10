@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec3_MaintainUsers", "Exec3_MaintainUsers\Exec3_MaintainUsers.csproj", "{18657848-773C-4D4F-AF4F-8CCA45182AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPan.Utility", "ISPan.Utility\ISPan.Utility.csproj", "{AF2721B6-73DC-4449-B811-10CB11457D8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18657848-773C-4D4F-AF4F-8CCA45182AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18657848-773C-4D4F-AF4F-8CCA45182AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18657848-773C-4D4F-AF4F-8CCA45182AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18657848-773C-4D4F-AF4F-8CCA45182AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2721B6-73DC-4449-B811-10CB11457D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2721B6-73DC-4449-B811-10CB11457D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2721B6-73DC-4449-B811-10CB11457D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2721B6-73DC-4449-B811-10CB11457D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85C87F7-019D-4B81-9A53-550D1B35D70C}
+	EndGlobalSection
+EndGlobal
